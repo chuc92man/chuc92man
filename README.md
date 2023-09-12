@@ -1,7 +1,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/chuc92man?style=social)](https://github.com/thangqd?tab=followers)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/chuc92man2)
 
-**👋 Hello, I'm Chuc, a passionate GIS/Remote Sensing developer from Vietnam. 🌍**
+**👋 Hello, I'm Chuc, a GIS/Remote Sensing developer. 🌍**
 
 🛰️ I'm deeply committed to harnessing the power of geospatial data, both through conventional spatial analysis and cutting-edge machine learning and deep learning techniques. I've developed open source projects like the Vertical Photo Placer plugin for QGIS 📸.
 
